@@ -27,7 +27,7 @@ There will be room for paid postings, the revenue from which will be used to run
 2. [Use meaningful, specific subject headers](#subjectheaders)
 3. [Requesting replies](#replies)
 	+ Asking for a reply by e-mail is outright rude, unless you believe the information may be sensitive in which case you should not be posting here
-4. [Clear, consice and coherent](#coherence)
+4. [Clear, concise and coherent](#coherence)
 5. [Describe the goal first and then the step](#goalandstep)
 6. [When asking about code](#codequestions)
 	+ Introduce concept of asking code questions with reproducible examples 
