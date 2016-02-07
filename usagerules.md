@@ -32,7 +32,8 @@ There will be room for paid postings, the revenue from which will be used to run
 6. [When asking about code](#codequestions)
 	+ Introduce concept of asking code questions with reproducible examples 
 	+ No code in code question - question will be taken down
-7. [Avoid pointless queries](#prune)
+	+ Requests for code help should be accompanied by code snippets for already been tried, along with a description of ultimate objective. For example, instead of posting "How do I create a transit compartment model" a response should be along the lines of: "I tried the following code to create a transit compartment model \<code snippet\> however am getting the following error \<error snippet\>".
+7. [Avoid pointless or ambiguous queries](#prune)
 	+ This is a forum, and you are posting because you are expecting replies. Please don't end the question with "Can someone help?" sort of queries
 8. [Follow-up with solutions](#follow-up)
 	+ When the community is helping you with a collective response, please be courteous enough to summarize all responses and post a follow up solution
@@ -48,7 +49,7 @@ There will be room for paid postings, the revenue from which will be used to run
 4. [Ask probing questions to elicit more details](#improvethequestion)
 	+ If you don't understand the question, make sure to ask questions back to the OP such that they can provide more details rather than showing them down
 5. [Reframe the question](#reframe)
-	+ If you think (as a moderator) you understand the question well, but it is not in general clear for the audience, feel free to reframe the question
+	+ If you think you understand the question well, but it is not in general clear for the audience, feel free to reframe the question
 6. [Take useful derived questions to community thinkers](#startdiscussion)
 	+ There will always be side effects from either the nature or content of the discussion that may need a higher level discussion. If this is the case, as a high level moderator take it to the next level for a discussion between the moderators. 
 
