@@ -5,7 +5,7 @@ This guide will walk through the general do's and dont's for using the ISoP Disc
 ## Not Allowed
 
 1. [Signatures](#nopublicity)
-	+ Questions or responses should not have personal signatures. This forum is not a place for publicity. Please update your user profile if you want people to look at your profile and want to contact you.
+	+ Questions or responses should not have personal signatures. This forum is not a place for publicity. Please update your user profile if you want people to look at your profile and want to contact you
 2. [Advertisements](#noadverts)
 	+ Absolutely no advertisements of any sort in the free public forum
 3. [Job-postings](#nojobpostings)
