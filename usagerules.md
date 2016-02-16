@@ -57,6 +57,11 @@ There will be room for paid postings, the revenue from which will be used to run
 
 ## What if you don't get a response?
 
+1. [Be patient](#patience)
+	+ Sometimes community members and moderators are on travel or the question need an important amount of investigation 
+2. [Be proactive](#proactive)
+	+ Show the community your diligence by posting any progress you have made so far on the same issue while waiting for answers	
+
 
 
 ## How to interpret answers?
